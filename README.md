@@ -2,8 +2,8 @@
 
 
 - 🌱 I’m a software engineering student
-- 💬 I from Ecuador-Quito ...
-- 📫 How to reach me: bryanadrian38@hotmail.com
+- 💬 Ecuador-Quito ...
+- 📫 Contacto : bryanadrian38@hotmail.com
 
 
  <div align="center">Visitors</div>
