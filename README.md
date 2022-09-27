@@ -3,7 +3,7 @@
 
 - 🌱 I’m a software engineering student
 - 💬 Ecuador-Quito ...
-- 📫 mail : bryanadrian38@hotmail.com
+- 📫 Mail : bryanadrian38@hotmail.com
 
 
  <div align="center">Visitors</div>
